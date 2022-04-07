@@ -23,6 +23,7 @@ public class Employee {
         return sallary;
     }
 
+
     public int getId() {
         return id;
     }
@@ -38,6 +39,7 @@ public class Employee {
     public void setDepartment(int department) {
         this.department = department;
     }
+
 
     public void setSallary(int sallary) {
         this.sallary = sallary;
